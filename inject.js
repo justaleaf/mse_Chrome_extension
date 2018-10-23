@@ -1,5 +1,8 @@
 'use strict';
 
+
+import {getLastSolutionURL} from "./comment_block_requests";
+
 var HeightBlock = $(".discussions__list").height();
 var buttonComm = '<button class = "ButtonComments">test</button>';
 
